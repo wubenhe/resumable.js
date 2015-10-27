@@ -1,0 +1,19 @@
+{
+  "name": "resumable",
+  "version": "1.0.0",
+  "description": "a foke of 23-resumable.js",
+  "main": "resumable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wubenhe/resumable.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/23/resumable.js/issues"
+  },
+  "homepage": "http://www.resumablejs.com/"
+}
