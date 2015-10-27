@@ -1,7 +1,7 @@
 {
   "name": "resumable",
   "version": "1.0.0",
-  "description": "a foke of 23-resumable.js",
+  "description": "a fork of 23-resumable.js",
   "main": "resumable.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
